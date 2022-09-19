@@ -91,7 +91,7 @@
 			<br>
 			<h6>¿Olvidó su contraseña?</h6>
 			<h4>Para mayor seguridad cree un PIN a su cuenta</h4>
-			<input  id="pin1" minlength="4" maxlength="4" type="password" type="password" name="numero" placeholder="PIN ****" required="" pattern="[0-9]+">
+			<input  id="pin" minlength="4" maxlength="4" type="password" type="password" name="password1" placeholder="PIN ****" required="" pattern="[0-9]+">
 			<img id="llave" src="llave.svg" alt="llave.svg">
 			<br>
 			<br>
@@ -104,8 +104,8 @@
 		?>
 		
 		 <?php 
-                     $variable= $_POST['pin'];
-        echo '<a href="index2.php"></a><input id="pin" name="pin" value="'. htmlspecialchars($variable) . '" readonly />'."\n";
+                     $variable= $_POST['password'];
+        echo '<a href="index2.php"></a><input id="pin" name="password" value="'. htmlspecialchars($variable) . '" readonly />'."\n";
 		?>
 		
 		
