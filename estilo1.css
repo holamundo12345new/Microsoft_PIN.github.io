@@ -45,7 +45,7 @@ body{
 	background: white;
 	border: 3px solid white; 
 	width: 440px;
-	height: 4500px;
+	height: 450px;
 	box-shadow:0 2px 6px rgb(0 0 0 / 20%);
 }
 
@@ -85,8 +85,8 @@ body{
 .llave1{
 	display: block;
 	background: none;
-	width: 60px;
-  height: 25px;
+	width: 50px;
+  height: 20px;
   margin: 5px;
   
 
@@ -278,7 +278,7 @@ h6:hover{
 }
 
 h4{
-	float: right;
+	text-align:center;
 font-size: 13px;
 font-weight: 400;
  margin: -5px 0px 15px;
