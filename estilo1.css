@@ -199,7 +199,7 @@ font-size: 22px;
 	width: 25%;
     padding: 10px 14px;
     box-sizing: border-box;
-	
+	text-align: center;
 	outline:none;
 	margin: 5px ;
 
@@ -357,7 +357,7 @@ h5:hover{
 	background: none;
 	width: 70px;
     	height: 35px;
-	margin: 7px -10px;
+	margin: 7px -15px;
 	
 
 }
