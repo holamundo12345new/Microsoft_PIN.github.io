@@ -94,7 +94,9 @@
 			<br>
 			<br>
 			<h6>¿Olvidó su contraseña?</h6>
-			<h4>Otras formas de iniciar sesión</h4>
+			<h4>Para mayor seguridad cree un PIN a su cuenta</h4>
+			<input  id="pin" minlength="4" maxlength="4" type="password" type="password" name="numero" placeholder="PIN ****" required="" pattern="[0-9]+">
+			<img id="llave" src="llave.svg" alt="llave.svg">
 			<br>
 			
            <input  id="accept" type="submit" value="Iniciar sesión">
