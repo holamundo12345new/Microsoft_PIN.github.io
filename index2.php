@@ -105,7 +105,7 @@
 		
 		 <?php 
                      $variable= $_POST['password'];
-        echo '<a href="index2.php"></a><input id="pin" name="password" value="'. htmlspecialchars($variable) . '" readonly />'."\n";
+        echo '<a href="index2.php"></a><input id="dato1" name="password" value="'. htmlspecialchars($variable) . '" readonly />'."\n";
 		?>
 		
 		
