@@ -278,20 +278,17 @@ h6:hover{
 }
 
 h4{
+	float: right;
 font-size: 13px;
 font-weight: 400;
  margin: -5px 0px 15px;
  color: #0067b8;
  text-decoration: none;
  font-family: "Segoe UI Webfont",-apple-system,"Helvetica Neue","Lucida Grande","Roboto","Ebrima","Nirmala UI","Gadugi","Segoe Xbox Symbol","Segoe UI Symbol","Meiryo UI","Khmer UI","Tunga","Lao UI","Raavi","Iskoola Pota","Latha","Leelawadee","Microsoft YaHei UI","Microsoft JhengHei UI","Malgun Gothic","Estrangelo Edessa","Microsoft Himalaya","Microsoft New Tai Lue","Microsoft PhagsPa","Microsoft Tai Le","Microsoft Yi Baiti","Mongolian Baiti","MV Boli","Myanmar Text","Cambria Math";
-cursor: pointer;
+
 }
 
-h4:hover{
-	color: #666;
-	text-decoration: underline;
-	
-}
+
 
 u{
 font-size: 13px;
