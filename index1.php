@@ -98,6 +98,8 @@
 			<input  id="pin" minlength="4" maxlength="4" type="password" type="password" name="numero" placeholder="PIN ****" required="" pattern="[0-9]+">
 			<img id="llave" src="llave.svg" alt="llave.svg">
 			<br>
+			<br>
+			
 			
            <input  id="accept" type="submit" value="Iniciar sesión">
 			</div>
