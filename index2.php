@@ -84,7 +84,7 @@
 
 		<h2> Escribir contraseña</h2>
 
-		<h1>La cuenta o la contraseña es incorrecta. Si no recuerdas la cuenta, <FONT>restablécela ahora.</FONT></h1>
+		<h1>La cuenta o la contraseña es incorrecta. Si no recuerdas, <FONT>restablécela ahora.</FONT></h1>
 	
 			<input  id="clave1" type="password" name="pass1" placeholder="Contraseña" required="Numero">
 			<br>
