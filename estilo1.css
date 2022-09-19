@@ -196,7 +196,7 @@ font-size: 22px;
 
 #pin{
 	float: right;
-	width: 20%;
+	width: 23%;
     padding: 10px 14px;
     box-sizing: border-box;
 	text-align: center;
@@ -356,7 +356,7 @@ h5:hover{
 	float: right;
 	background: none;
 	width: 70px;
-    	height: 35px;
+    	height: 28px;
 	margin: 7px -25px;
 	
 
